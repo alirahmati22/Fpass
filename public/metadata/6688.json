@@ -1,0 +1,11 @@
+{
+    "name": "NFT #6688",
+    "description": "This is an NFT from the Mystery Box collection.",
+    "image": "ipfs://bafybeigxhf2mdup4hm2wcwwmms7jnapuaq2d4psrozj3a52nbcdxwqs5qa",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

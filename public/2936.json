@@ -1,0 +1,11 @@
+{
+    "name": "NFT #2936",
+    "description": "This is an NFT from the Mystery Box collection.",
+    "image": "ipfs://bafybeigrzcxaw3qds2twgr3oysi5t6lm2puff5nggs6t5xrrljivk6ml44",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Unknown"
+        }
+    ]
+}
